@@ -24,7 +24,7 @@ if(command === "info") {
     message.channel.sendEmbed(embed);
   }
 if(command === "test") {
-  message.channel.sendMessage("**Hello"**);
+  message.channel.sendMessage("**Hello**");
                               }
 
 
