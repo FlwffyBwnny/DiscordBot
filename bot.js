@@ -23,6 +23,9 @@ if(command === "info") {
       .setColor(0x00FFFF)
     message.channel.sendEmbed(embed);
   }
+if(command === "test") {
+  message.channel.sendMessage("**Hello**);
+                              }
 
 
 //  /n == New line
